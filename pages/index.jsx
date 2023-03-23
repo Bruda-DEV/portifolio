@@ -1,9 +1,12 @@
+import Cabecalho from "./cabecalho"
+import Inicio from "./inicio"
+
 function Home() {
-    return(
+    return (
         <div>
-            <h1>Portifolio SOS</h1>
-            <h2>BOBÃO</h2>
-        </div>
+    <Cabecalho/>
+    <Inicio/>
+    </div>
     )
 }
 export default Home
