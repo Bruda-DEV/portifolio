@@ -1,0 +1,19 @@
+{
+    "data":{
+
+        "nav":[
+            "Sobre",
+            "Projetos",
+            "Parcerias"],
+        "body":{
+            "sobre":{
+            "titulo":"Sobre minha carreira",
+            "carreira":"Iniciando os estudos em JavaScript \n Uma jovem carreira em programação \n Migrando de carreira da area vendas para programação"
+        },
+        
+        "projetos":"Projetos",
+        "contatos":"Contatos",
+        "direitos":"Direitos Reservados"
+    }
+  }
+}

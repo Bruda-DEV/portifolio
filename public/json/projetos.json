@@ -1,0 +1,11 @@
+{
+    "projeto1":{
+        "nome": "Sites de viagem",
+        "imagens":["../images/site1.png","../images/site2.png","../images/site3.png"]
+    },
+    "projeto2":{
+        "nome": "SOS Tecnologia e Educação",
+        "sobre": "Escola de cursos profissionalizantes para informatica, administraçao e idiomas",
+        "imagens":["../images/sos1.png","../images/sos2.png","../images/sos3.png"]
+    }
+}
