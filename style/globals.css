@@ -4,7 +4,7 @@ body{
     padding: 0;
 }
 header{
-    background-color: rgb(40, 40, 43);
+    background-color: rgb(62, 62, 63);
     color: rgb(182, 235, 235);
     padding: 20px;
     text-align: center;
@@ -32,15 +32,22 @@ nav a{
 nav a:hover{
     background-color: rgb(216, 147, 213);
 }
+footer{
+    color: rgb(232, 237, 241);
+    background-color: rgb(36, 35, 35);
+    text-align: center;
+}
 footer a{
-    background-color: rgb(56, 54, 54);
     color: aliceblue;
     padding: 20px;
     text-align: center;
+    
 }
 footer .direitos{
+    color: rgb(255, 255, 255);
     padding-top: 40px;
     padding-bottom: 0px;
+    
 }
 .carrossel{
     width: 300px;

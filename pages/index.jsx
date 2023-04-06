@@ -3,6 +3,7 @@ import Inicio from "./inicio"
 
 function Home() {
     return (
+        
     <Cabecalho/>,
         <div>
     <Inicio/>

@@ -1,10 +1,10 @@
 import React from "react"
-import data from "../public/json/data.json"
+import json from "../public/json/data.json"
 import projetos from "../public/json/projetos.json"
 
 function Inicio(){
+    const data = json.ptbr
     const linhas = data.body.sobre.carreira.split('\n')
-
     return(
         <div>
         <header>
@@ -14,7 +14,7 @@ function Inicio(){
             <ul>
                 <li> <a href="#sobre">{data.nav[0]}</a></li>
                 <li> <a href="#projetos">{data.nav[1]}</a></li>
-                <li> <a href="#parecrias">{data.nav[2]}</a></li>
+                <li> <a href="#parcerias">{data.nav[2]}</a></li>
             </ul>
         </nav>
         <section id="about">
