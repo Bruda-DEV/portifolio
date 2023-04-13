@@ -5,7 +5,7 @@ body{
 }
 header{
     background-color: rgb(62, 62, 63);
-    color: rgb(182, 235, 235);
+    color:  rgb(182, 235, 235);
     padding: 20px;
     text-align: center;
 }
@@ -31,6 +31,17 @@ nav a{
 }
 nav a:hover{
     background-color: rgb(216, 147, 213);
+}
+
+nav button{
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+nav button:hover{
+background-color: rgb(216, 147, 213);
 }
 footer{
     color: rgb(232, 237, 241);

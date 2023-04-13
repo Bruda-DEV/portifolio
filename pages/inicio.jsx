@@ -1,9 +1,10 @@
+import MudarIdidoma from "..//components/mudaridioma.jsx"
 import React from "react"
 import json from "../public/json/data.json"
 import projetos from "../public/json/projetos.json"
 
 function Inicio(){
-    const data = json.ptbr
+    var data = json.ptbr
     const linhas = data.body.sobre.carreira.split('\n')
     return(
         <div>
@@ -15,6 +16,7 @@ function Inicio(){
                 <li> <a href="#sobre">{data.nav[0]}</a></li>
                 <li> <a href="#projetos">{data.nav[1]}</a></li>
                 <li> <a href="#parcerias">{data.nav[2]}</a></li>
+                <li> <button onclick={MudarIdidoma()}>Inglês</button> </li>
             </ul>
         </nav>
         <section id="about">

@@ -1,3 +1,4 @@
+import React from "react"
 import Cabecalho from "./cabecalho"
 import Inicio from "./inicio"
 
