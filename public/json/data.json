@@ -1,21 +1,32 @@
 {
-    "ptbr": {
-        "nav": [
-            "Sobre",
-            "Projetos",
-            "Parcerias"
-        ],
-        "body": {
-            "sobre": {
-                "titulo": "Sobre minha carreira",
-                "carreira": "Bem-vindo ao meu portfólio! Sou uma profissional que decidiu mudar de área de vendas para programação. Embora eu não tenha experiência profissional em programação, sou apaixonada por tecnologia e estou comprometida em aprender e crescer nessa área. \n Recentemente, fiz um curso intensivo de programação, no qual aprendi os fundamentos do desenvolvimento web, incluindo HTML, CSS e JavaScript. Além disso, também estudei algoritmos e estruturas de dados, e participei de projetos em grupo para desenvolver habilidades de trabalho em equipe e colaboração. \n Como sou uma aprendiz dedicada e entusiasta, estou sempre em busca de novos conhecimentos e habilidades. Continuo estudando e aprimorando minhas habilidades, e estou animada para trabalhar em projetos desafiadores e desenvolver minhas habilidades de programação. \n Embora eu possa não ter experiência profissional em programação, trago habilidades valiosas da minha experiência em vendas, como comunicação eficaz, habilidades de negociação e capacidade de trabalhar sob pressão. Acredito que essas habilidades serão valiosas em qualquer carreira, incluindo a programação. \n Estou procurando uma oportunidade de trabalho em programação para começar minha carreira e colocar em prática tudo o que aprendi. Estou comprometida em trabalhar duro e aprender rapidamente para me tornar um membro valioso de qualquer equipe de desenvolvimento."
+    "data": {
+        "ptbr": {
+            "language": "ptbr",
+            "change": "Inglês",
+            "top":{
+                "subtitle": "Programadora"
             },
-            "projetos": "Projetos",
-            "contatos": "Contatos",
-            "direitos": "Direitos Reservados"
+            "nav": [
+                "Sobre",
+                "Projetos",
+                "Parcerias"
+            ],
+            "body": {
+                "sobre": {
+                    "titulo": "Sobre minha carreira",
+                    "carreira": "Bem-vindo ao meu portfólio! Sou uma profissional que decidiu mudar de área de vendas para programação. Embora eu não tenha experiência profissional em programação, sou apaixonada por tecnologia e estou comprometida em aprender e crescer nessa área. \n Recentemente, fiz um curso intensivo de programação, no qual aprendi os fundamentos do desenvolvimento web, incluindo HTML, CSS e JavaScript. Além disso, também estudei algoritmos e estruturas de dados, e participei de projetos em grupo para desenvolver habilidades de trabalho em equipe e colaboração. \n Como sou uma aprendiz dedicada e entusiasta, estou sempre em busca de novos conhecimentos e habilidades. Continuo estudando e aprimorando minhas habilidades, e estou animada para trabalhar em projetos desafiadores e desenvolver minhas habilidades de programação. \n Embora eu possa não ter experiência profissional em programação, trago habilidades valiosas da minha experiência em vendas, como comunicação eficaz, habilidades de negociação e capacidade de trabalhar sob pressão. Acredito que essas habilidades serão valiosas em qualquer carreira, incluindo a programação. \n Estou procurando uma oportunidade de trabalho em programação para começar minha carreira e colocar em prática tudo o que aprendi. Estou comprometida em trabalhar duro e aprender rapidamente para me tornar um membro valioso de qualquer equipe de desenvolvimento."
+                },
+                "projetos": "Projetos",
+                "contatos": "Contatos",
+                "direitos": "Direitos Reservados"
         }
     },
     "ing": {
+        "language": "ing",
+        "change": "Português",
+        "top":{
+            "subtitle": "Programmer"
+        },
         "nav": [
             "About",
             "Projects",
@@ -31,4 +42,5 @@
             "direitos": "Reserved Rights"
         }
     }
+}
 }
